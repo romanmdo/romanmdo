@@ -1,7 +1,7 @@
 # 💻 Bienvenido a mi perfil
 
 ## 🚀 Sobre mí
-Soy un apasionado por la tecnología y la programación, con experiencia en desarrollo backend, frontend, ciberseguridad y mantenimiento de hardware. Siempre estoy en búsqueda de nuevos desafíos y oportunidades para aprender y mejorar mis habilidades.
+Mi nombre es Román Maldonado, soy un apasionado por la tecnología y la programación, con experiencia en desarrollo backend, frontend, ciberseguridad y desarrollo de software. Siempre estoy en búsqueda de nuevos desafíos y oportunidades para aprender y mejorar mis habilidades.
 
 ## 🔧 Tecnologías y herramientas
 - 💻 Lenguajes: Python, C++, JavaScript, Haskell
@@ -9,6 +9,7 @@ Soy un apasionado por la tecnología y la programación, con experiencia en desa
 - 📊 Bases de datos: MySQL
 - 🛠️ Herramientas: Photoshop, Git, Github, Audacity
 - 🔍 Ciberseguridad: Análisis de vulnerabilidades, pentesting básico
+- 🕶️ Uso basico de distros de Linux tales como Linux lite, Lubuntu y Arch Linux.
 
 ## 🏆 Proyectos Destacados
 - **Gestión de clientes y ventas**: Sistema con Django y MySQL para una empresa de distribución de bidones de agua.
