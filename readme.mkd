@@ -1,0 +1,102 @@
+<!-- ================= HEADER ================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:141E30,100:243B55&text=Román%20Maldonado&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+<h2>💻 Backend Developer | Full Stack in Progress | Problem Solver</h2>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Román Maldonado"
+        self.role = "Backend Developer"
+        self.location = "Argentina 🇦🇷"
+        self.focus = ["Django", "MySQL", "IA", "Automation"]
+        self.learning = ["Cybersecurity", "System Design", "DevOps", "Games"]
+
+    def mindset(self):
+        return "Build. Break. Fix. Improve. Repeat."
+```
+
+- 🏆 Background en programación competitiva (C++)
+- 🛠 Construyendo sistemas reales con Django + MySQL
+- 🚀 Interesado en sistemas escalables y ciberseguridad
+- 📈 Mejorando todos los días
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+### 🖥 Backend
+<img src="https://skillicons.dev/icons?i=python,django,haskell,godot,java,mysql" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,tailwind" />
+
+### 🛠 Tools & Systems
+<img src="https://skillicons.dev/icons?i=git,linux,windows,bash,vscode,sublime,ps" />
+
+### 📚 Competitive Programming
+<img src="https://skillicons.dev/icons?i=cpp" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Current Focus
+
+- 🔐 Explorando ciberseguridad
+- 🤠 Explorando motor de videojuegos
+- 🧠 Estudiando Lic. en cs. de la computación (UNRC)
+- 💡 Construyendo productos digitales propios
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/romanmdo">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:romanmdo912@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/romanmdo">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ “Consistency beats motivation.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,100:0f2027&section=footer"/>
+
+</div>
