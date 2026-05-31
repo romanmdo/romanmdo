@@ -2,74 +2,108 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:141E30,100:243B55&text=Román%20Maldonado&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF512F,100:DD2476&text=Román%20Maldonado&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<h2>💻 Backend Developer | Full Stack in Progress | Problem Solver</h2>
+# 👋 Hi, I'm Román Maldonado
+
+### 🚀 Backend Developer • Django • Automation • System Design
+
+<p>
+Building real-world software, automation tools and scalable backend solutions.
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=romanmdo&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 💫 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Román Maldonado"
-        self.role = "Backend Developer"
-        self.location = "Argentina 🇦🇷"
-        self.focus = ["Django", "MySQL", "IA", "Automation"]
-        self.learning = ["Cybersecurity", "System Design", "DevOps", "Games"]
+I'm a Computer Science student from Argentina focused on backend development, automation and scalable systems.
 
-    def mindset(self):
-        return "Build. Break. Fix. Improve. Repeat."
-```
+Currently building real-world applications with Django and MySQL while exploring cybersecurity, DevOps, cloud technologies and software architecture.
 
-- 🏆 Background en programación competitiva (C++)
-- 🛠 Construyendo sistemas reales con Django + MySQL
-- 🚀 Interesado en sistemas escalables y ciberseguridad
-- 📈 Mejorando todos los días
+I enjoy solving problems, designing systems and transforming ideas into products.
+
+- 🎓 Computer Science Student at UNRC
+- 🐍 Backend Developer focused on Python & Django
+- 🏆 Background in Competitive Programming (C++)
+- 🛠 Building real-world management systems
+- 🔐 Exploring Cybersecurity
+- ☁️ Learning Cloud & DevOps
+- 🚀 Creating digital products and startups
 
 ---
+
+## 🚀 Featured Projects
+
 
 ## ⚙️ Tech Stack
 
 <div align="center">
 
 ### 🖥 Backend
-<img src="https://skillicons.dev/icons?i=python,django,haskell,godot,java,mysql" />
+
+<img src="https://skillicons.dev/icons?i=python,django,java,mysql,cpp" />
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,tailwind" />
 
-### 🛠 Tools & Systems
-<img src="https://skillicons.dev/icons?i=git,linux,windows,bash,vscode,sublime,ps" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass" />
 
-### 📚 Competitive Programming
-<img src="https://skillicons.dev/icons?i=cpp" />
+### ☁️ Learning & Exploring
 
-</div>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash" />
 
----
+### 🛠 Tools
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=romanmdo&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romanmdo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,windows" />
 
 </div>
 
 ---
 
-## 🚀 Current Focus
+## 📚 Current Focus
 
-- 🔐 Explorando ciberseguridad
-- 🤠 Explorando motor de videojuegos
-- 🧠 Estudiando Lic. en cs. de la computación (UNRC)
-- 💡 Construyendo productos digitales propios
+```yaml
+Backend:
+  - Django
+  - REST APIs
+  - MySQL Optimization
+
+Cybersecurity:
+  - Networking
+  - Linux
+  - Ethical Hacking Fundamentals
+
+Cloud & DevOps:
+  - AWS
+  - Docker
+  - CI/CD
+
+Personal Projects:
+  - SaaS Ideas
+  - Automation Tools
+  - Business Solutions
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanmdo&layout=compact&theme=dark" alt="Lenguajes más usados" />
+
+---
+
+## 🧠 Philosophy
+
+```text
+Build.
+Break.
+Fix.
+Improve.
+Repeat.
+```
 
 ---
 
@@ -89,14 +123,17 @@ class Developer:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://romanmdo.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### ⚡ “Consistency beats motivation.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,100:0f2027&section=footer"/>
+### ⚡ Consistency beats motivation.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF512F,100:DD2476&section=footer" width="100%"/>
 
 </div>
