@@ -16,7 +16,6 @@ Building real-world software, automation tools and scalable backend solutions.
 
 </div>
 
----
 
 ## 💫 About Me
 
@@ -34,10 +33,10 @@ I enjoy solving problems, designing systems and transforming ideas into products
 - ☁️ Learning Cloud & DevOps
 - 🚀 Creating digital products and startups
 
----
+<!-- ---
 
 ## 🚀 Featured Projects
-
+ -->
 
 ## ⚙️ Tech Stack
 
@@ -45,23 +44,22 @@ I enjoy solving problems, designing systems and transforming ideas into products
 
 ### 🖥 Backend
 
-<img src="https://skillicons.dev/icons?i=python,django,java,mysql,cpp" />
+<img src="https://skillicons.dev/icons?i=python,django,java,mysql,cpp,haskell" />
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
 
 ### ☁️ Learning & Exploring
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash" />
+<img src="https://skillicons.dev/icons?i=linux,mint,postgres,postman" />
 
 ### 🛠 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,windows" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows,ps" />
 
 </div>
 
----
 
 ## 📚 Current Focus
 
@@ -76,57 +74,19 @@ Cybersecurity:
   - Linux
   - Ethical Hacking Fundamentals
 
-Cloud & DevOps:
-  - AWS
-  - Docker
-  - CI/CD
-
 Personal Projects:
   - SaaS Ideas
   - Automation Tools
   - Business Solutions
 ```
 
----
-
-## 📊 GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanmdo&layout=compact&theme=dark" alt="Lenguajes más usados" />
-
----
-
-## 🧠 Philosophy
-
-```text
-Build.
-Break.
-Fix.
-Improve.
-Repeat.
-```
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
-
-<a href="https://github.com/romanmdo">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:romanmdo912@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/romanmdo">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://romanmdo.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/romanmdo"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:romanmdo912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/romanmdo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://romanmdo.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </div>
 
 ---
