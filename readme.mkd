@@ -1,99 +1,40 @@
-<!-- ================= HEADER ================= -->
+# Sobre mi
 
-<div align="center">
+Soy estudiante de la carrera Licenciatura en Ciencias de la Computación en la UNRC. 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF512F,100:DD2476&text=Román%20Maldonado&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+Actualmente desarrollo aplicaciones reales con Django y MySQL, al tiempo que exploro temas relacionados a la licenciatura, automatizaciones con IA, etc.
 
-# 👋 Hi, I'm Román Maldonado
+Me apasiona el Desarrollo de Software porque puedo pensar problemas de maneras muy distintas.
 
-### 🚀 Backend Developer • Django • Automation • System Design
-
-<p>
-Building real-world software, automation tools and scalable backend solutions.
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=romanmdo&label=Profile+Views&color=0e75b6&style=flat" />
-
-</div>
+- 📜 Bachillerato en Desarrollo de Software (PRoA).
+- 🎓 Estudiante de la Licenciatura en Ciencias de la Computación (UNRC).
+- 🐍 Desarrollador Back-end (Python & Django).
+- 🏆 Experiencia competitiva (C++).
+- 🦾 Desarrollador de sistemas de gestión reales.
+- 🌴 Explorando automatizaciones con IA, Redes & Ciberseguridad.
 
 
-## 💫 About Me
+## Stack técnico
 
-I'm a Computer Science student from Argentina focused on backend development, automation and scalable systems.
-
-Currently building real-world applications with Django and MySQL while exploring cybersecurity, DevOps, cloud technologies and software architecture.
-
-I enjoy solving problems, designing systems and transforming ideas into products.
-
-- 🎓 Computer Science Student at UNRC
-- 🐍 Backend Developer focused on Python & Django
-- 🏆 Background in Competitive Programming (C++)
-- 🛠 Building real-world management systems
-- 🔐 Exploring Cybersecurity
-- ☁️ Learning Cloud & DevOps
-- 🚀 Creating digital products and startups
-
-<!-- ---
-
-## 🚀 Featured Projects
- -->
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-### 🖥 Backend
-
+### Back-end
 <img src="https://skillicons.dev/icons?i=python,django,java,mysql,cpp,haskell" />
 
-### 🎨 Frontend
+### Front-end
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
+### Explorando
+<img src="https://skillicons.dev/icons?i=linux,postgres,postman,sentry" />
 
-### ☁️ Learning & Exploring
-
-<img src="https://skillicons.dev/icons?i=linux,mint,postgres,postman" />
-
-### 🛠 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,windows,ps" />
-
-</div>
+### Herramientas
+<img src="https://skillicons.dev/icons?i=gmail,git,github,vscode,sublime,windows,ps" />
 
 
-## 📚 Current Focus
+<!-- ## Proyectos -->
 
-```yaml
-Backend:
-  - Django
-  - REST APIs
-  - MySQL Optimization
-
-Cybersecurity:
-  - Networking
-  - Linux
-  - Ethical Hacking Fundamentals
-
-Personal Projects:
-  - SaaS Ideas
-  - Automation Tools
-  - Business Solutions
-```
-
-## 🌐 Connect With Me
-
+## Contactate conmigo!
 <div align="center">
   <a href="https://github.com/romanmdo"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:romanmdo912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/romanmdo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://romanmdo.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Consistency beats motivation.
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF512F,100:DD2476&section=footer" width="100%"/>
-
 </div>
