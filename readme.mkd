@@ -1,4 +1,6 @@
-# Sobre mi
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:f12711,100:f5af19&text=Román%20Maldonado&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+# 🌴 Sobre mi
 
 Soy estudiante de la carrera Licenciatura en Ciencias de la Computación en la UNRC. 
 
@@ -14,7 +16,7 @@ Me apasiona el Desarrollo de Software porque puedo pensar problemas de maneras m
 - 🌴 Explorando automatizaciones con IA, Redes & Ciberseguridad.
 
 
-## Stack técnico
+## 💻 Stack técnico
 
 ### Back-end
 <img src="https://skillicons.dev/icons?i=python,django,java,mysql,cpp,haskell" />
@@ -23,7 +25,7 @@ Me apasiona el Desarrollo de Software porque puedo pensar problemas de maneras m
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma" />
 
 ### Explorando
-<img src="https://skillicons.dev/icons?i=linux,postgres,postman,sentry" />
+<img src="https://skillicons.dev/icons?i=linux,postgres,postman,sentry,cloudflare,docker" />
 
 ### Herramientas
 <img src="https://skillicons.dev/icons?i=gmail,git,github,vscode,sublime,windows,ps" />
@@ -31,10 +33,12 @@ Me apasiona el Desarrollo de Software porque puedo pensar problemas de maneras m
 
 <!-- ## Proyectos -->
 
-## Contactate conmigo!
+## 🍌 Contactos
 <div align="center">
   <a href="https://github.com/romanmdo"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:romanmdo912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/romanmdo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://romanmdo.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <!-- <a href="https://romanmdo.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a> -->
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:f12711,100:f5af19&&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&section=footer" width="100%"/>
