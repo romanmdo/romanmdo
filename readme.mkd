@@ -36,7 +36,7 @@ Más allá del desarrollo web, disfruto sumergirme en el funcionamiento a bajo n
   <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,windows" />
 </div>
 
----
+<!-- ---
 
 ## 📊 Estadísticas
 
@@ -45,7 +45,7 @@ Más allá del desarrollo web, disfruto sumergirme en el funcionamiento a bajo n
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanmdo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Lenguajes más usados" />
 </div>
 
-<!-- ---
+---
 
 ## 🚀 Proyectos Destacados
 
