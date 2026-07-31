@@ -1,39 +1,64 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:f12711,100:f5af19&text=Román%20Maldonado&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-# 🌴 Sobre mi
+<div align="center">
+  <h3>¡Hola! Soy Román 👋</h3>
+  <p>Estudiante de Ciencias de la Computación | Desarrollador Back-end</p>
+</div>
 
-Soy estudiante de la carrera Licenciatura en Ciencias de la Computación en la UNRC. 
+---
 
-Actualmente desarrollo aplicaciones reales con Django y MySQL, al tiempo que exploro temas relacionados a la licenciatura, automatizaciones con IA, etc.
+## 🌴 Sobre mí
 
-Me apasiona el Desarrollo de Software porque puedo pensar problemas de maneras muy distintas.
+Me apasiona el desarrollo de software porque me permite analizar y resolver problemas complejos abordándolos desde perspectivas completamente distintas. Actualmente, me dedico a construir sistemas y aplicaciones empresariales reales usando Django y bases de datos relacionales, mientras avanzo en mi carrera universitaria.
 
-- 📜 Bachillerato en Desarrollo de Software (PRoA).
-- 🎓 Estudiante de la Licenciatura en Ciencias de la Computación (UNRC).
-- 🐍 Desarrollador Back-end (Python & Django).
-- 🏆 Experiencia competitiva (C++).
-- 🦾 Desarrollador de sistemas de gestión reales.
-- 🌴 Explorando automatizaciones con IA, Redes & Ciberseguridad.
+Más allá del desarrollo web, disfruto sumergirme en el funcionamiento a bajo nivel, la implementación de estructuras de datos complejas, y explorar la fascinante historia de las ciencias de la computación.
 
+- 🎓 **Educación:** Estudiante de la Licenciatura en Ciencias de la Computación (UNRC) | Bachiller en Desarrollo de Software (PRoA).
+- 💻 **Especialidad:** Desarrollo Back-end (Python & Django) y sistemas de gestión.
+- 🏆 **Algoritmia:** Experiencia en programación competitiva (C++).
+- 🦾 **Intereses Actuales:** Automatizaciones con IA, Redes, Ciberseguridad y fundamentos de la computación.
 
-## 💻 Stack técnico
+---
 
-### Back-end
-<img src="https://skillicons.dev/icons?i=python,django,java,mysql,cpp,haskell" />
+## 💻 Stack Técnico
 
-### Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma" />
+<div align="center">
+  <h4>Back-end & Lenguajes</h4>
+  <img src="https://skillicons.dev/icons?i=python,django,java,c,cpp,mysql,haskell" /><br>
+  
+  <h4>Front-end</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma" /><br>
+  
+  <h4>Explorando & Infraestructura</h4>
+  <img src="https://skillicons.dev/icons?i=linux,postgres,postman,sentry,cloudflare,docker" /><br>
+  
+  <h4>Herramientas de Desarrollo</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,windows" />
+</div>
 
-### Explorando
-<img src="https://skillicons.dev/icons?i=linux,postgres,postman,sentry,cloudflare,docker" />
+---
 
-### Herramientas
-<img src="https://skillicons.dev/icons?i=gmail,git,github,vscode,sublime,windows,ps" />
+## 📊 Estadísticas
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=romanmdo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanmdo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Lenguajes más usados" />
+</div>
 
-<!-- ## Proyectos -->
+<!-- ---
 
-## 🍌 Contactos
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| [**Nombre de tu App en Django**](#) | Sistema de gestión real para [cliente/empresa]. Incluye automatizaciones y base de datos relacional. | `Python` `Django` `MySQL` |
+| [**Estructuras de Datos**](#) | Implementaciones propias de listas doblemente enlazadas y otros TDA. | `Java` `C` |
+| [**Bot / Script de IA**](#) | Herramienta de automatización usando inteligencia artificial. | `Python` |
+
+--- -->
+
+## 📫 Conecta Conmigo
+
 <div align="center">
   <a href="https://github.com/romanmdo"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:romanmdo912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
