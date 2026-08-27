@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>¡Hola! Soy Román 👋</h3>
-  <p>Estudiante de Ciencias de la Computación | Desarrollador Back-end</p>
+  <p>Estudiante de la Licenciatura en Ciencias de la Computación | Desarrollador de Software</p>
 </div>
 
 ---
