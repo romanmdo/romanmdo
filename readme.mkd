@@ -1,4 +1,6 @@
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8b0000,100:4a0000&text=Román%20Maldonado&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+-->
 
 <div align="center">
   <h3>¡Hola! Soy Román 👋</h3>
@@ -66,4 +68,6 @@ Más allá del desarrollo web, disfruto sumergirme en el funcionamiento a bajo n
   <!-- <a href="https://romanmdo.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a> -->
 </div>
 
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:8b0000,100:4a0000&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&section=footer" width="100%"/>
+-->
