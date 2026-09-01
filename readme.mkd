@@ -24,7 +24,7 @@ Estudiante de la **Licenciatura en Ciencias de la Computación (UNRC)** y desarr
 <!-- Me especializo en **Backend con Python y Django**, trabajando con APIs, bases de datos y sistemas de gestión. También me interesan especialmente los **algoritmos, estructuras de datos y fundamentos de la computación**. -->
 
 - 🎓 Bachiller en Desarrollo de Software — PRoA.
-- 🏆 Programación competitiva — C++.
+- 🏆 Programación competitiva — C++, Python
 - 🧠 Explorando: Servidores/APIs, Algoritmos y Estructuras de Datos.
 
 
