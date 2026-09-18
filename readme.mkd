@@ -1,21 +1,11 @@
+<h1 align="center">👋 ¡Hola! Soy Román Maldonado</h1>
+<h3 align="center">Estudiante de la Licenciatura en Ciencias de la Computación · Desarrollador de Software</h3>
+
 <div align="center">
-
-# 👋 ¡Hola! Soy Román Maldonado
-
-### Estudiante de Ciencias de la Computación · Backend Developer
-
-<p>
-  <a href="https://github.com/romanmdo">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="mailto:romanmdo912@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
+  <a href="https://github.com/romanmdo"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:romanmdo912@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/román-maldonado"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
-
 
 ## 👨‍💻 Sobre mí
 
@@ -24,42 +14,78 @@ Estudiante de la **Licenciatura en Ciencias de la Computación (UNRC)** y desarr
 <!-- Me especializo en **Backend con Python y Django**, trabajando con APIs, bases de datos y sistemas de gestión. También me interesan especialmente los **algoritmos, estructuras de datos y fundamentos de la computación**. -->
 
 - 🎓 Bachiller en Desarrollo de Software — PRoA.
-- 🏆 Programación competitiva — C++, Python
+- 🏆 Programación competitiva — C++, Python.
 - 🧠 Explorando: Servidores/APIs, Algoritmos y Estructuras de Datos.
-
-
 
 ## 🛠️ Stack
 
 <div align="center">
 
-**Backend**
+**Backend & Low-Level**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
+<img src="https://img.shields.io/badge/Assembler-2D333B?style=for-the-badge&logoColor=white" alt="Assembler" />
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,java,c,cpp,haskell" />
+**Frontend**<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+<br><br>
 
-**Frontend**
+**Bases de datos**<br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-
-**Datos & Herramientas**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,linux,git,github,postman," />
+**Datos & Herramientas**<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 
 </div>
 
----
-
-## 🚀 Proyectos
-
-| Proyecto                        | Tecnologías                          |
-| :------------------------------ | :----------------------------------- |
-| 🛒 **ERP-Manantiales Santa Catalina**               | Django · MySQL · HTML/CSS    |
-| 🧠 **Algoritmos & Estructuras** | Java                       |
-
----
+<h2 align="center">🚀 Proyectos</h2>
 
 <div align="center">
-
-### *Construir software. Entender cómo funciona.*
-
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Proyecto</th>
+        <th align="center">Tecnologías</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>🛒 <strong>ERP-Manantiales Santa Catalina</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+          <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        </td>
+      </tr>
+      <tr>
+        <td>🧠 <strong>Algoritmos & Estructuras</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
+
+---
+
+<h3 align="center"><em>Construir software. Entender cómo funciona.</em></h3>
