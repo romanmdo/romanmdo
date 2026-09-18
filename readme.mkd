@@ -38,7 +38,7 @@ Estudiante de la **Licenciatura en Ciencias de la Computación (UNRC)** y desarr
 
 </div>
 
-<h2 align="center">🚀 Proyectos</h2>
+## 🚀 Proyectos
 
 <div align="center">
   <table>
