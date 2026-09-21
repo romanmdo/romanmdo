@@ -1,72 +1,95 @@
-<h1 align="center">👋 ¡Hola! Soy Román Maldonado</h1>
-<h3 align="center">Estudiante de la Licenciatura en Ciencias de la Computación · Desarrollador de Software</h3>
+<h1 align="center">👋 Hola, soy Román Maldonado</h1>
 
-<div align="center">
-  <a href="https://github.com/romanmdo"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:romanmdo912@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/román-maldonado"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>
+<h3 align="center">
+  Estudiante de Ciencias de la Computación · Desarrollador de Software
+</h3>
 
-## 👨‍💻 Sobre mí
-
-Estudiante de la **Licenciatura en Ciencias de la Computación (UNRC)** y desarrollador de software.
-
-<!-- Me especializo en **Backend con Python y Django**, trabajando con APIs, bases de datos y sistemas de gestión. También me interesan especialmente los **algoritmos, estructuras de datos y fundamentos de la computación**. -->
-
-- 🎓 Bachiller en Desarrollo de Software — PRoA.
-- 🏆 Programación competitiva — C++, Python.
-- 🧠 Explorando: Servidores/APIs, Algoritmos y Estructuras de Datos.
-
-## 🛠️ Stack
-
-<div align="center">
-
-**Backend & Low-Level**<br>
-<img src="https://skillicons.dev/icons?i=python,django,flask,java,c,cpp,haskell" alt="Backend" />
-<br><br>
-
-**Frontend**<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend" />
-<br><br>
-
-**Bases de datos**<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" alt="Bases de datos" />
-<br><br>
-
-**Herramientas & Entorno**<br>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,sublime,photoshop,vscode" alt="Herramientas" />
-
-</div>
-
-## 🚀 Proyectos
-
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Proyecto</th>
-        <th align="center">Tecnologías</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>🛒 <strong>ERP-Manantiales Santa Catalina</strong></td>
-        <td>
-            <img style="margin-top: 10%" src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,tailwind" alt="Backend" />
-            <br><br>
-        </td>
-      </tr>
-      <tr>
-        <td>🧠 <strong>Algoritmos & Estructuras</strong></td>
-        <td>
-            <img style="margin-top: 10%" src="https://skillicons.dev/icons?i=java,python,c" alt="Backend" />
-            <br><br>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/romanmdo">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:romanmdo912@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/román-maldonado">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-<h3 align="center"><em>Construir software. Entender cómo funciona.</em></h3>
+## 👨‍💻 Sobre mí
+
+Soy estudiante de la **Licenciatura en Ciencias de la Computación (UNRC)** y desarrollador de software, interesado tanto en la construcción de sistemas como en los fundamentos que los hacen posibles.
+
+* 🎓 Bachiller en Desarrollo de Software — PRoA
+* 💻 Desarrollo de aplicaciones y APIs
+* 🧠 Algoritmos, estructuras de datos y fundamentos de computación
+* ⚙️ Programación en C++, Python y Java 
+* 🏆 Experiencia en programación competitiva
+
+---
+
+## 🛠️ Tecnologías
+
+### Lenguajes & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,java,c,cpp,haskell" alt="Lenguajes y Backend" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend" />
+</p>
+
+### Bases de Datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" alt="Bases de Datos" />
+</p>
+
+### Herramientas & Entorno
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode" alt="Herramientas" />
+</p>
+
+---
+
+## 🚀 Proyectos
+
+| Proyecto                                | Descripción                                                                                                        | Tecnologías                                                      |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| 🛒 **ERP — Manantiales Santa Catalina** | Sistema de gestión empresarial orientado a la administración y operación de un negocio.                            | Python · Django · HTML · CSS · JavaScript · Bootstrap · Tailwind |
+| 🧠 **Algoritmos & Estructuras**         | Implementaciones y experimentación con algoritmos, estructuras de datos y conceptos fundamentales de programación. | Java · Python · C                                                |
+| 🤖 **Robertito**                        | Sistema de IA encarnada basado en arquitectura asíncrona, comunicación MQTT y control de hardware.                 | Rust · Tokio · MQTT · Groq · ESP32                               |
+
+---
+
+## 📚 Actualmente explorando
+
+```text
+Sistemas y APIs
+├── Backend
+├── Arquitecturas concurrentes
+└── Comunicación entre servicios
+
+Fundamentos
+├── Algoritmos
+├── Estructuras de datos
+├── Complejidad
+└── Fundamentos de computación
+
+Low-Level
+├── C / C++
+├── Rust
+└── Sistemas embebidos
+```
+
+---
+
+<h3 align="center">
+  <em>Construir software. Entender cómo funciona.</em>
+</h3>
