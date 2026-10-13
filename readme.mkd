@@ -64,7 +64,6 @@ Soy estudiante de la **Licenciatura en Ciencias de la Computación (UNRC)** y de
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
 | 🛒 **ERP — Manantiales Santa Catalina** | Sistema de gestión empresarial orientado a la administración y operación de un negocio.                            | Python · Django · HTML · CSS · JavaScript · Bootstrap · Tailwind |
 | 🧠 **Algoritmos & Estructuras**         | Implementaciones y experimentación con algoritmos, estructuras de datos y conceptos fundamentales de programación. | Java · Python · C                                                |
-| 🤖 **Robertito**                        | Sistema de IA encarnada basado en arquitectura asíncrona, comunicación MQTT y control de hardware.                 | Rust · Tokio · MQTT · Groq · ESP32                               |
 
 ---
 
@@ -85,7 +84,7 @@ Fundamentos
 Low-Level
 ├── C / C++
 ├── Rust
-└── Sistemas embebidos
+└── Assembler
 ```
 
 ---
