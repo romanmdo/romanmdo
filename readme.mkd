@@ -43,7 +43,3 @@
 </p>
 
 ---
-
-<h3 align="center">
-  <em>Construir software. Entender cómo funciona.</em>
-</h3>
