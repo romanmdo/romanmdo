@@ -18,18 +18,6 @@
 
 ---
 
-## 👨‍💻 Sobre mí
-
-Soy estudiante de la **Licenciatura en Ciencias de la Computación (UNRC)** y desarrollador de software, interesado tanto en la construcción de sistemas como en los fundamentos que los hacen posibles.
-
-* 🎓 Bachiller en Desarrollo de Software — PRoA
-* 💻 Desarrollo de aplicaciones y APIs
-* 🧠 Algoritmos, estructuras de datos y fundamentos de computación
-* ⚙️ Programación en C++, Python y Java 
-* 🏆 Experiencia en programación competitiva
-
----
-
 ## 🛠️ Tecnologías
 
 ### Lenguajes & Backend
