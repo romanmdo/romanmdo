@@ -44,37 +44,6 @@
 
 ---
 
-## 🚀 Proyectos
-
-| Proyecto                                | Descripción                                                                                                        | Tecnologías                                                      |
-| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| 🛒 **ERP — Manantiales Santa Catalina** | Sistema de gestión empresarial orientado a la administración y operación de un negocio.                            | Python · Django · HTML · CSS · JavaScript · Bootstrap · Tailwind |
-| 🧠 **Algoritmos & Estructuras**         | Implementaciones y experimentación con algoritmos, estructuras de datos y conceptos fundamentales de programación. | Java · Python · C                                                |
-
----
-
-## 📚 Actualmente explorando
-
-```text
-Sistemas y APIs
-├── Backend
-├── Arquitecturas concurrentes
-└── Comunicación entre servicios
-
-Fundamentos
-├── Algoritmos
-├── Estructuras de datos
-├── Complejidad
-└── Fundamentos de computación
-
-Low-Level
-├── C / C++
-├── Rust
-└── Assembler
-```
-
----
-
 <h3 align="center">
   <em>Construir software. Entender cómo funciona.</em>
 </h3>
